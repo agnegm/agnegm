@@ -10,20 +10,29 @@ Generally, I am really 🤩interested in OOP approaches, Linux, Java, Embedded S
 
 ### 👨‍💻 Programming Languages
 
+<div style="display:inline">
+  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="C" width="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="C++" width="50px" />
+  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Embedded C" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Java" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="50px" />
+</div>
+
 * C/C++
 * Embedded C
 * Java
 * Python basics and GUI Progeamming
 
-<div style="display:inline">
-  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="C" width="64px" />
-  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="C++" width="64px" />
-  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Embedded C" width="64px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Java" width="64px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="64px" />
-</div>
+
 
 ### CS Concepts Khowledge
+
+<div style="display:inline">
+  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="OOP" width="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="CCNA" width="50px" />
+  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="ML" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Linux" width="50px" />
+</div>
 
 * Software engineering concepts - (SDLC, working models, Scrum, ...)
 * Object Oriented Programing concepts - (principals, implementation using Java)
@@ -43,8 +52,20 @@ Generally, I am really 🤩interested in OOP approaches, Linux, Java, Embedded S
 
 ## Technologies and Tools
 
+<div style="display:inline">
+  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="CentOS" width="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="AVR" width="50px" />
+  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Arduino" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="PyTkinter" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Pandas" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Numpy" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Eclipse" width="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="NetBeans" width="50px" />
+</div>
+
 * Centos Linux - (Linux Commands, Vim, ...)
-* Machine Learning - (Panda, Numpy, ...)
+* Embedded systems - (AVR, Arduino, ...)
+* Machine Learning - (Pandas, Numpy, ...)
 * GUI Programing - (PyTkinter)
 * IDEs : Eclipse(C/C++), CodeBlocks(C), NetBeans(Java)
 
