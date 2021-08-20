@@ -11,59 +11,57 @@ Generally, I am really 🤩interested in OOP approaches, Linux, Java, Embedded S
 ### 👨‍💻 Programming Languages
 
 <div style="display:inline">
-  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="C" width="50px" />
-  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="C++" width="50px" />
-  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Embedded C" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Java" width="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="C" height="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="C++" height="50px" />
+  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Embedded C" height="50px" />
+  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Java" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="50px" />
 </div>
 
 * C/C++
 * Embedded C
 * Java
-* Python basics and GUI Progeamming
+* Python basics and GUI Programming
 
 
 
 ### CS Concepts Khowledge
 
 <div style="display:inline">
-  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="OOP" width="50px" />
-  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="CCNA" width="50px" />
-  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="ML" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Linux" width="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/OOP.svg/1280px-OOP.svg.png" alt="OOP" height="50px" />
+  <img src="https://symspire.com/wp-content/uploads/2016/08/Cisco-CCNA-Logo.jpg" alt="CCNA" height="50px" />
+  <img src="https://image.flaticon.com/icons/png/512/518/518713.png" alt="Linux" height="50px" />
 </div>
 
 * Software engineering concepts - (SDLC, working models, Scrum, ...)
 * Object Oriented Programing concepts - (principals, implementation using Java)
-* Computer architecture and orgnization - (...)
+* Computer architecture and organization - (...)
 * Networking basics - (CCNA, OSI Model, Switches, Routers, TCP/IP, ...)
 * Image processing and filtering
 * Machine Learning Basics (...)
-* Operating systems and schedulling bascics (Linux)
+* Operating systems and scheduling basics (Linux)
 * Linux file system and command line
 
-### CS Related Khowledge
+### CS Related Knowledge
 
-* Analog electronics - (..)
-* Digital electronics - (..)
-* FPGA, Field Programmable Gate Array, - (..)
-* ...
+* Analog electronics
+* Digital electronics
+* Field Programmable Gate Array (FPGA)
 
 ## Technologies and Tools
 
 <div style="display:inline">
-  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="CentOS" width="50px" />
-  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="AVR" width="50px" />
-  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Arduino" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="PyTkinter" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Pandas" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Numpy" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Eclipse" width="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="NetBeans" width="50px" />
+  <img src="https://cdn.worldvectorlogo.com/logos/centos.svg" alt="CentOS" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" alt="AVR" height="50px" />
+  <img src="https://img.icons8.com/color/452/arduino.png" alt="Arduino" height="50px" />
+  <img src="https://miro.medium.com/max/558/1*0fDzLmYk12nQ3KeqK4360A.png" alt="PyTkinter" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" height="50px" />
+  <img src="https://pbs.twimg.com/media/DbyDpx3X0AAnSls.png" alt="NetBeans" height="50px" />
 </div>
 
-* Centos Linux - (Linux Commands, Vim, ...)
+* CentOs Linux - (Linux Commands, Vim, ...)
 * Embedded systems - (AVR, Arduino, ...)
 * Machine Learning - (Pandas, Numpy, ...)
 * GUI Programing - (PyTkinter)
