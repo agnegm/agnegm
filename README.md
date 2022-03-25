@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ahmed Negm
+# Hi there 👋 I'm Ahmed Gomaa Negm
 
 Hello! I'm **a 👨‍🎓 senior Computer Science student** actively 🔎 **looking for internship** opportunities to learn more about the computer science field. 
 Generally, I am really 🤩interested in OOP approaches, Linux, Java, Embedded Systems, and Machine Learning topics.
