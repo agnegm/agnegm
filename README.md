@@ -1,70 +1,22 @@
-# Hi there 👋 I'm Ahmed Gomaa Negm
 
-Hello! I'm **a 👨‍🎓 senior Computer Science student** actively 🔎 **looking for internship** opportunities to learn more about the computer science field. 
-Generally, I am really 🤩interested in OOP approaches, Linux, Java, Embedded Systems, and Machine Learning topics.
+📊 **BI Developer | Data Enthusiast | SQL Ninja**
 
-### Currently
+👋 Hey there! I'm [Ahmed Negm], a passionate BI developer with a knack for turning data into actionable insights. With a strong foundation in SQL and a love for crafting intuitive dashboards, I thrive on empowering businesses to make informed decisions.
 
-* Finishing summer Embedded Systems ITI (Information Technology Institute) camp.
-* Working as a team member in a group to deploy embedded system projects as a way of learning.
+🚀 **Skills & Tools**:
+- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo" width="20"/> SQL: Proficient in crafting complex queries and optimizing database performance.
+- <img src="https://img.icons8.com/color/48/000000/data-configuration.png" alt="BI Tools Logo" width="20"/> Business Intelligence Tools: Experienced with tools like Power BI, Tableau, and Looker for creating visually compelling reports and dashboards.
+- <img src="https://img.icons8.com/color/48/000000/data-analysis.png" alt="Data Analysis Logo" width="20"/> Data Analysis: Skilled in data wrangling, transformation, and statistical analysis to uncover valuable insights.
+- <img src="https://img.icons8.com/color/48/000000/etl-process.png" alt="ETL Logo" width="20"/> ETL: Familiar with Extract, Transform, Load processes to ensure smooth data flow and integration.
+- <img src="https://img.icons8.com/color/48/000000/database-model.png" alt="Data Modeling Logo" width="20"/> Data Modeling: Expertise in designing efficient data models for optimal performance and scalability.
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" width="20"/> Python: Basic proficiency for scripting and automation tasks.
 
-### 👨‍💻 Programming Languages
+🌱 **Currently Learning**: Continuously exploring advanced data visualization techniques and machine learning algorithms to enhance decision-making capabilities.
 
-<div style="display:inline">
-  <img src="https://image.flaticon.com/icons/png/512/919/919839.png" alt="C" height="50px" />
-  <img src="https://image.flaticon.com/icons/png/512/919/919841.png" alt="C++" height="50px" />
-  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Embedded C" height="50px" />
-  <img src="https://image0.flaticon.com/icons/png/128/226/226777.png" alt="Java" height="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="50px" />
-</div>
+🔗 **Connect with Me**:
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/agnegm/)
 
-* C/C++
-* Embedded C
-* Java
-* Python basics and GUI Programming
+📧 **Let's Collaborate**: Have an interesting project or need assistance with BI solutions? Feel free to reach out at [ahmedgomaanegm@gmail.com](mailto:your.email@example.com)!
 
-
-
-### CS Concepts Khowledge
-
-<div style="display:inline">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/OOP.svg/1280px-OOP.svg.png" alt="OOP" height="50px" />
-  <img src="https://symspire.com/wp-content/uploads/2016/08/Cisco-CCNA-Logo.jpg" alt="CCNA" height="50px" />
-  <img src="https://image.flaticon.com/icons/png/512/518/518713.png" alt="Linux" height="50px" />
-</div>
-
-* Software engineering concepts - (SDLC, working models, Scrum, ...)
-* Object Oriented Programing concepts - (principals, implementation using Java)
-* Computer architecture and organization - (...)
-* Networking basics - (CCNA, OSI Model, Switches, Routers, TCP/IP, ...)
-* Image processing and filtering
-* Machine Learning Basics (...)
-* Operating systems and scheduling basics (Linux)
-* Linux file system and command line
-
-### CS Related Knowledge
-
-* Analog electronics
-* Digital electronics
-* Field Programmable Gate Array (FPGA)
-
-## Technologies and Tools
-
-<div style="display:inline">
-  <img src="https://cdn.worldvectorlogo.com/logos/centos.svg" alt="CentOS" height="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" alt="AVR" height="50px" />
-  <img src="https://img.icons8.com/color/452/arduino.png" alt="Arduino" height="50px" />
-  <img src="https://miro.medium.com/max/558/1*0fDzLmYk12nQ3KeqK4360A.png" alt="PyTkinter" height="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" height="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="Numpy" height="50px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1280px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" height="50px" />
-  <img src="https://pbs.twimg.com/media/DbyDpx3X0AAnSls.png" alt="NetBeans" height="50px" />
-</div>
-
-* CentOs Linux - (Linux Commands, Vim, ...)
-* Embedded systems - (AVR, Arduino, ...)
-* Machine Learning - (Pandas, Numpy, ...)
-* GUI Programing - (PyTkinter)
-* IDEs : Eclipse(C/C++), CodeBlocks(C), NetBeans(Java)
 
 
