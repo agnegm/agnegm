@@ -1,7 +1,7 @@
 
 📊 **BI Developer | Data Enthusiast | SQL Ninja**
 
-👋 Hey there! I'm [Ahmed Negm], a passionate BI developer with a knack for turning data into actionable insights. With a strong foundation in SQL and a love for crafting intuitive dashboards, I thrive on empowering businesses to make informed decisions.
+👋 Hey there! I'm Ahmed Negm, a passionate BI developer with a knack for turning data into actionable insights. With a strong foundation in SQL and a love for crafting intuitive dashboards, I thrive on empowering businesses to make informed decisions.
 
 🚀 **Skills & Tools**:
 - <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Logo" width="20"/> SQL: Proficient in crafting complex queries and optimizing database performance.
@@ -14,9 +14,7 @@
 🌱 **Currently Learning**: Continuously exploring advanced data visualization techniques and machine learning algorithms to enhance decision-making capabilities.
 
 🔗 **Connect with Me**:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/agnegm/)
+- LinkedIn: [Ahmed Negm's LinkedIn Profile](https://www.linkedin.com/in/agnegm/)
+- Email: [ahmedgomaanegm@gmail.com](mailto:ahmedgomaanegm@gmail.com)
 
-📧 **Let's Collaborate**: Have an interesting project or need assistance with BI solutions? Feel free to reach out at [ahmedgomaanegm@gmail.com](mailto:your.email@example.com)!
-
-
-
+📧 **Let's Collaborate**: Have an interesting project or need assistance with BI solutions? Feel free to reach out at [ahmedgomaanegm@gmail.com](mailto:ahmedgomaanegm@gmail.com)!
