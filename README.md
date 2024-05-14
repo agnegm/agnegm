@@ -12,9 +12,10 @@
 
 🌱 **Currently Learning**: Continuously exploring advanced data visualization techniques and machine learning algorithms to enhance decision-making capabilities.
 
+![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) ![BI Tools Logo](https://img.icons8.com/color/48/000000/data-configuration.png) ![Data Analysis Logo](https://img.icons8.com/color/48/000000/data-analysis.png) ![ETL Logo](https://img.icons8.com/color/48/000000/etl-process.png) ![Data Modeling Logo](https://img.icons8.com/color/48/000000/database-model.png) ![Python Logo](https://img.icons8.com/color/48/000000/python.png)
+
 🔗 **Connect with Me**:
 - LinkedIn: [Ahmed Negm's LinkedIn Profile](https://www.linkedin.com/in/agnegm/)
 - Email: [ahmedgomaanegm@gmail.com](mailto:ahmedgomaanegm@gmail.com)
 
 📧 **Let's Collaborate**: Have an interesting project or need assistance with BI solutions? Feel free to reach out at [ahmedgomaanegm@gmail.com](mailto:ahmedgomaanegm@gmail.com)!
-
